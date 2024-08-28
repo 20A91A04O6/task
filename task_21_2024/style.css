@@ -1,0 +1,66 @@
+#divv{
+    border:2px solid black;
+    width:200px;
+    height:200px;
+    border-radius:10px;
+}
+header{
+    background-color: aquamarine;
+    margin-top:5px;
+    border-radius:10px;
+    height:20px;
+    text-align:center;
+    margin-left:10px;
+    margin-right: 10px;
+}
+nav{
+    background-color:lightpink;
+    margin-top:5px;
+    border-radius:10px;
+    height:20px;
+    text-align:center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#div1 section{
+    height:50px;
+    width:70px;
+    background-color:khaki;
+    text-align: center;
+    margin-top:10px;
+    margin-left:10px;
+    border-radius: 5px;
+    align-content: center;
+}
+#div1 article{
+    background-color:rebeccapurple;
+    height:50px;
+    width:70px;
+    align-content: center;
+    text-align: center;
+    margin-left: 10px;
+    margin-top :10px;
+    border-radius:5px;
+}
+.di{
+    display:flex;
+    
+}
+#div2{
+    background-color:darkkhaki;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    align-content: center;
+    width:90px;
+    text-align:center;
+}
+footer{
+    background-color:mediumspringgreen ;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
